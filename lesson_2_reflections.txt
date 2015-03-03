@@ -12,3 +12,6 @@ Branch is useful when we want to represent an independent line of development.
 
 How do the diagrams help you visualize the branch structure?
 The diagrams help you to see the structure and the sequence in time.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+We have one branch with the addons from the two branches.

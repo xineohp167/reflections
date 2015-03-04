@@ -15,3 +15,6 @@ The diagrams help you to see the structure and the sequence in time.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 We have one branch with the addons from the two branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging saves time but sometimes it is impossible to decide which changes should be applied.
